@@ -2,6 +2,6 @@
 
 
 ---
-Personal Website: https//:dcorcoran7.github.io
+<a href = "https//:dcorcoran7.github.io">Personal Website</a> 
 </br>
-Linkedin: https://www.linkedin.com/in/david-corcoran-70677917a/
+<a href = "https://www.linkedin.com/in/david-corcoran-70677917a/">Linkedin</a> 
